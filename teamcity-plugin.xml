@@ -9,7 +9,7 @@
     <vendor>
       <name>@VendorName@</name>
       <url>@VendorURL@</url>
-      <logo>https://raw.githubusercontent.com/tcplugins/tcSwaggerUI/master/docs/icons/tcSwaggerUI.svg</logo>
+      <logo>https://raw.githubusercontent.com/tcplugins/tcSwaggerUI/master/docs/icons/tcSwaggerUI.png</logo>
     </vendor>
   </info>
   <deployment use-separate-classloader="true"/>
