@@ -12,6 +12,7 @@ import jetbrains.buildServer.serverSide.SBuildServer;
 import jetbrains.buildServer.web.openapi.PluginDescriptor;
 import jetbrains.buildServer.web.openapi.WebControllerManager;
 
+@SuppressWarnings("squid:MaximumInheritanceDepth")
 public class SwaggerController extends BaseController {
 	
 	private PluginDescriptor myPluginDescriptor;
