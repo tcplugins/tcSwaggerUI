@@ -4,7 +4,7 @@
   <parent>
     <artifactId>tcSwaggerUI</artifactId>
     <groupId>netwolfuk.teamcity.plugins</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>${currentVersion}</version>
   </parent>
   <artifactId>tcSwaggerUI-server</artifactId>
   <packaging>jar</packaging>
