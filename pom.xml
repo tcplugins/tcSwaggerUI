@@ -6,7 +6,7 @@
   <version>${currentVersion}</version>
   <packaging>pom</packaging>
   <properties>
-      <currentVersion>1.0.0</currentVersion>
+      <currentVersion>1.0.2</currentVersion>
       <!--
     	Use spring boot starter version 1.5.8, as it uses the 
     	Spring version 4.3.12.RELEASE which matches TC 2018.2
